@@ -1,13 +1,18 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Aman pinjar</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="130" />
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, React, and more. I specialize in creating captivating user interfaces and seamless user experiences. Below, you'll find an overview of my skills and projects.
-
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 
   
 ## Skills
+
+
 
 - **HTML**: Proficient in writing semantic HTML code to create structured web pages.
 - **CSS**: Skilled in CSS for styling web pages, including animations and responsive design.
@@ -17,6 +22,14 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with expertis
 - **Bootstrap**: Experienced in using Bootstrap framework for building responsive and mobile-first websites.
 - **Tailwind CSS**: Proficient in using Tailwind CSS for rapid UI development with utility-first approach.
 - **MongoDB**: Familiar with MongoDB for database management in MEAN/MERN stack applications.
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 
 <h3>Things I code with</h3>
 <p>
@@ -42,8 +55,11 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with expertis
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" /></code>
   
 </p>
-
-## Projects
-
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
