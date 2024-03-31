@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Aman pinjar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-![1](https://github.com/amanpinjar/amanpinjar/assets/40684802/ad28c70b-e226-4488-811d-882f35930f05)
+![1](https://github.com/amanpinjar/amanpinjar/assets/40684802/9c986eb6-618e-4513-a71f-13704d07acfb)
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, React, and more. I specialize in creating captivating user interfaces and seamless user experiences. Below, you'll find an overview of my skills and projects.
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
