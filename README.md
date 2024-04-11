@@ -5,7 +5,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, React, and more. I specialize in creating captivating user interfaces and seamless user experiences. Below, you'll find an overview of my skills and projects.
 </a>
-</em></p>
+
   
 ## Skills
 
