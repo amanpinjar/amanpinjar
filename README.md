@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Aman pinjar</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm <a href="www.linkedin.com/in/aman-pinjar" target="_blank">Aman pinjar</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ![1](https://github.com/amanpinjar/amanpinjar/assets/40684802/9c986eb6-618e-4513-a71f-13704d07acfb)
 
