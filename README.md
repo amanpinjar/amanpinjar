@@ -6,25 +6,37 @@
 Welcome to my GitHub profile! I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, React, and more. I specialize in creating captivating user interfaces and seamless user experiences. Below, you'll find an overview of my skills and projects.
 </a>
 
+
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Aman pinjar
+located_in: Kalamboli, Navi Mumbai
+current_work_as: Full Stack Developer
+education:
+  [
+
+    "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
+    "B.E Computer Engineering, Chhatrapati Shivaji Maharaj Institute of Technology",
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Event Executive",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "Technical event executive,",
+  ]
   
-## Skills
-
-- **HTML**: Proficient in writing semantic HTML code to create structured web pages.
-- **CSS**: Skilled in CSS for styling web pages, including animations and responsive design.
-- **JavaScript**: Experienced in using JavaScript to add interactivity and dynamic functionality to web applications.
-- **React**: Proficient in building single-page applications (SPAs) using React.js library.
-- **Figma**: Familiar with Figma for creating wireframes, prototypes, and UI designs.
-- **Bootstrap**: Experienced in using Bootstrap framework for building responsive and mobile-first websites.
-- **Tailwind CSS**: Proficient in using Tailwind CSS for rapid UI development with utility-first approach.
-- **MongoDB**: Familiar with MongoDB for database management in MEAN/MERN stack applications.
-
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
-  <br />
-  <br />
-</div>
+```
+  
+---  
 
 ## Things I code with
 <p>
