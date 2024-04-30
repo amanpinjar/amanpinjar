@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with expertis
 
 ```yaml
 name: Aman pinjar
-located_in: Kalamboli, Navi Mumbai
+located_in: Navi Mumbai
 current_work_as: Full Stack Developer
 education:
   [
