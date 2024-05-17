@@ -33,15 +33,15 @@ technical_background:
     "Full Stack Developer"
     "Technical event executive,",
   ]
-Project
+Project:
   [
-    HTML/CSS/JAVASCRIPT
+    HTML/CSS/JAVASCRIPT:
      [
-        "Magic button"
-        "Portfolio"
-        "Calculator"
-        "Social Share"
-        "To-Do list"
+        "Magic button",
+        "Portfolio",
+        "Calculator",
+        "Social Share",
+        "To-Do list",
       ]
   ]
 
