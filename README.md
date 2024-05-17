@@ -33,6 +33,18 @@ technical_background:
     "Full Stack Developer"
     "Technical event executive,",
   ]
+Project
+  [
+    HTML/CSS/JAVASCRIPT
+     [
+        "Magic button"
+        "Portfolio"
+        "Calculator"
+        "Social Share"
+        "To-Do list"
+      ]
+  ]
+
   
 ```
   
