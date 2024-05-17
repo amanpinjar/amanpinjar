@@ -20,30 +20,30 @@ education:
     "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
     "B.E Computer Engineering, Chhatrapati Shivaji Maharaj Institute of Technology",
   ]
-company: Soulber
+
 
 fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX",
-    "Event Executive",
-  ]
+                    [
+                      "Web Development";
+                      "UI/UX";
+                      "Event Executive";
+                    ]
 technical_background:
-  [
-    "Full Stack Developer"
-    "Technical event executive,",
-  ]
+                    [
+                      "Full Stack Developer";
+                      "Technical event executive";
+                    ]
 Project:
-  [
-    HTML/CSS/JAVASCRIPT:
-     [
-        "Magic button",
-        "Portfolio",
-        "Calculator",
-        "Social Share",
-        "To-Do list",
-      ]
-  ]
+        [
+          HTML/CSS/JAVASCRIPT:
+                             [
+                                "Magic button";
+                                "Portfolio";
+                                "Calculator";
+                                "Social Share";
+                                "To-Do list";
+                              ]
+        ]
 
   
 ```
