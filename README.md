@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with expertis
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Aman pinjar
+Name: Aman pinjar
 located_in: Navi Mumbai
-current_work_as: Full Stack Developer
-education:
+Current_work_as: Full Stack Developer
+Education:
   [
 
     "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
@@ -22,13 +22,13 @@ education:
   ]
 
 
-fields_of_interests:
+Fields_of_interests:
                     [
                       "Web Development";
                       "UI/UX";
                       "Event Executive";
                     ]
-technical_background:
+Technical_background:
                     [
                       "Full Stack Developer";
                       "Technical event executive";
