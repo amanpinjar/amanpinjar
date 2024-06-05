@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="[www.linkedin.com/in/aman-pinjar](https://www.linkedin.com/in/aman-pinjar/)" target="#">Aman pinjar</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+
 ![1](https://github.com/amanpinjar/amanpinjar/assets/40684802/9c986eb6-618e-4513-a71f-13704d07acfb)
 
 Welcome to my GitHub profile! I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, React, and more. I specialize in creating captivating user interfaces and seamless user experiences. Below, you'll find an overview of my skills and projects.
