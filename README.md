@@ -43,6 +43,7 @@ Project:
                                 "Calculator";
                                 "Social Share";
                                 "To-Do list";
+                                "Manzil Explorers";
                               ]
         ]
 
