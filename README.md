@@ -17,7 +17,6 @@ located_in: Navi Mumbai
 Current_work_as: Full Stack Developer
 Education:
   [
-
     "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
     "B.E Computer Engineering, Chhatrapati Shivaji Maharaj Institute of Technology",
   ]
