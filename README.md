@@ -15,36 +15,39 @@ Welcome to my GitHub profile! I'm a passionate front-end developer with expertis
 Name: Aman pinjar
 located_in: Navi Mumbai
 Current_work_as: Full Stack Developer
+
 Education:
-  [
-    "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
-    "B.E Computer Engineering, Chhatrapati Shivaji Maharaj Institute of Technology",
-  ]
+                          [
+                            "Diploma Computer Engineering, Abdul Razzak Kalsekar Polytechnic",
+                            "B.E Computer Engineering, Chhatrapati Shivaji Maharaj Institute of Technology",
+                          ]
 
 
 Fields_of_interests:
-                    [
-                      "Web Development";
-                      "UI/UX";
-                      "Event Executive";
-                    ]
+                          [
+                            "Web Development";
+                            "UI/UX";
+                            "Event Executive";
+                          ]
+
 Technical_background:
-                    [
-                      "Full Stack Developer";
-                      "Technical event executive";
-                    ]
+                          [
+                            "Full Stack Developer";
+                            "Technical event executive";
+                          ]
+
 Project:
-        [
-          HTML/CSS/JAVASCRIPT:
-                             [
-                                "Magic button";
-                                "Portfolio";
-                                "Calculator";
-                                "Social Share";
-                                "To-Do list";
-                                "Manzil Explorers";
+                          [
+                            HTML/CSS/JAVASCRIPT:
+                                               [
+                                                  "Magic button";
+                                                  "Portfolio";
+                                                  "Calculator";
+                                                  "Social Share";
+                                                  "To-Do list";
+                                                  "Manzil Explorers";
                               ]
-        ]
+              ]
 
   
 ```
