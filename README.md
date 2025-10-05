@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aman-pinjar/" target="#">Aman Pinjar</a>
   <img src="" height="32" /></h1>
 
-![Cyber Security Banner](https://github.com/amanpinjar/amanpinjar/assets/40684802/9c986eb6-618e-4513-a71f-13704d07acfb)
+
 
 Welcome to my GitHub profile!  
 I'm a passionate **Cybersecurity Enthusiast** with hands-on knowledge in **network security, ethical hacking, vulnerability assessment, and system hardening**. I focus on securing applications, networks, and systems against ever-evolving cyber threats.  
