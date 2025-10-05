@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aman-pinjar/" target="#">Aman Pinjar</a>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aman-pinjar/" target="#">Aman </a>
   <img src="" height="32" /></h1>
 
 
@@ -12,15 +12,9 @@ Below, you'll find an overview of my interests, skills, and contributions in cyb
 ## 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 
 ```yaml
-Name: Aman Pinjar
-Location: Navi Mumbai
+Name: Aman 
 Current_role: Cybersecurity Analyst (Trainee)
 
-Education:
-  [
-    "Diploma in Computer Engineering - Abdul Razzak Kalsekar Polytechnic",
-    "B.E. in Computer Engineering - Chhatrapati Shivaji Maharaj Institute of Technology"
-  ]
 
 Fields_of_Interest:
   [
